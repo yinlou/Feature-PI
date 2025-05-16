@@ -1,0 +1,38 @@
+data/training/regression/[AfC][UCI]Anuran Calls (MFCCs)
+Start generating labels of [data/training/regression][AfC][UCI]Anuran Calls (MFCCs) at 2025-05-15 20:49:09.213272.
+Finish generating labels of [data/training/regression][AfC][UCI]Anuran Calls (MFCCs).
+Labels file has been saved into labels_s1.csv
+Time spent labeling:0:00:21.197449
+
+data/training/regression/[AfC][UCI]Avila
+Start generating labels of [data/training/regression][AfC][UCI]Avila at 2025-05-15 20:49:30.410840.
+Finish generating labels of [data/training/regression][AfC][UCI]Avila.
+Labels file has been saved into labels_s1.csv
+Time spent labeling:0:00:18.268760
+
+data/training/regression/[AfC][UCI]Crowdsourced Mapping
+Start generating labels of [data/training/regression][AfC][UCI]Crowdsourced Mapping at 2025-05-15 20:49:48.679681.
+Finish generating labels of [data/training/regression][AfC][UCI]Crowdsourced Mapping.
+Labels file has been saved into labels_s1.csv
+Time spent labeling:0:00:37.026159
+
+data/training/regression/[AfC][UCI]Diabetic Retinopathy Debrecen Data Set
+Start generating labels of [data/training/regression][AfC][UCI]Diabetic Retinopathy Debrecen Data Set at 2025-05-15 20:50:25.705936.
+Finish generating labels of [data/training/regression][AfC][UCI]Diabetic Retinopathy Debrecen Data Set.
+Labels file has been saved into labels_s1.csv
+Time spent labeling:0:00:04.260120
+
+data/training/regression/[AfC][UCI]First-order theorem proving
+Start generating labels of [data/training/regression][AfC][UCI]First-order theorem proving at 2025-05-15 20:50:29.966125.
+Finish generating labels of [data/training/regression][AfC][UCI]First-order theorem proving.
+Labels file has been saved into labels_s1.csv
+Time spent labeling:0:00:37.559959
+
+data/training/regression/[AfC][UCI]HTRU2
+Start generating labels of [data/training/regression][AfC][UCI]HTRU2 at 2025-05-15 20:51:07.526167.
+Finish generating labels of [data/training/regression][AfC][UCI]HTRU2.
+Labels file has been saved into labels_s1.csv
+Time spent labeling:0:00:07.508368
+
+data/training/regression/[AfC][UCI]Human Activity Recognition Using Smartphones
+Start generating labels of [data/training/regression][AfC][UCI]Human Activity Recognition Using Smartphones at 2025-05-15 20:51:15.034615.

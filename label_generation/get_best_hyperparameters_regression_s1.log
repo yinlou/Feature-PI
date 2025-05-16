@@ -1,0 +1,848 @@
+data/training/regression/[AfC][UCI]Anuran Calls (MFCCs)
+Start getting best_params of [data/training/regression][AfC][UCI]Anuran Calls (MFCCs) at 2025-05-15 19:43:48.126766.
+data/training/regression/[AfC][UCI]Anuran Calls (MFCCs)
+Time spent tuning:
+0:00:22.777184
+Finish getting best_params of [data/training/regression][AfC][UCI]Anuran Calls (MFCCs).
+Time spent tuning: 0:00:22.885754
+
+data/training/regression/[AfC][UCI]Avila
+Start getting best_params of [data/training/regression][AfC][UCI]Avila at 2025-05-15 19:44:11.012594.
+data/training/regression/[AfC][UCI]Avila
+Time spent tuning:
+0:00:12.884226
+Finish getting best_params of [data/training/regression][AfC][UCI]Avila.
+Time spent tuning: 0:00:12.932926
+
+data/training/regression/[AfC][UCI]Crowdsourced Mapping
+Start getting best_params of [data/training/regression][AfC][UCI]Crowdsourced Mapping at 2025-05-15 19:44:23.945609.
+data/training/regression/[AfC][UCI]Crowdsourced Mapping
+Time spent tuning:
+0:00:37.884259
+Finish getting best_params of [data/training/regression][AfC][UCI]Crowdsourced Mapping.
+Time spent tuning: 0:00:37.941786
+
+data/training/regression/[AfC][UCI]Diabetic Retinopathy Debrecen Data Set
+Start getting best_params of [data/training/regression][AfC][UCI]Diabetic Retinopathy Debrecen Data Set at 2025-05-15 19:45:01.887477.
+data/training/regression/[AfC][UCI]Diabetic Retinopathy Debrecen Data Set
+Time spent tuning:
+0:00:02.895326
+Finish getting best_params of [data/training/regression][AfC][UCI]Diabetic Retinopathy Debrecen Data Set.
+Time spent tuning: 0:00:02.920358
+
+data/training/regression/[AfC][UCI]First-order theorem proving
+Start getting best_params of [data/training/regression][AfC][UCI]First-order theorem proving at 2025-05-15 19:45:04.807906.
+data/training/regression/[AfC][UCI]First-order theorem proving
+Time spent tuning:
+0:00:24.819050
+Finish getting best_params of [data/training/regression][AfC][UCI]First-order theorem proving.
+Time spent tuning: 0:00:24.860252
+
+data/training/regression/[AfC][UCI]HTRU2
+Start getting best_params of [data/training/regression][AfC][UCI]HTRU2 at 2025-05-15 19:45:29.668227.
+data/training/regression/[AfC][UCI]HTRU2
+Time spent tuning:
+0:00:05.966784
+Finish getting best_params of [data/training/regression][AfC][UCI]HTRU2.
+Time spent tuning: 0:00:06.012092
+
+data/training/regression/[AfC][UCI]Human Activity Recognition Using Smartphones
+Start getting best_params of [data/training/regression][AfC][UCI]Human Activity Recognition Using Smartphones at 2025-05-15 19:45:35.680393.
+data/training/regression/[AfC][UCI]Human Activity Recognition Using Smartphones
+Time spent tuning:
+0:05:21.497264
+Finish getting best_params of [data/training/regression][AfC][UCI]Human Activity Recognition Using Smartphones.
+Time spent tuning: 0:05:22.162552
+
+data/training/regression/[AfC][UCI]Malware static and dynamic features VxHeaven and Virus Total
+Start getting best_params of [data/training/regression][AfC][UCI]Malware static and dynamic features VxHeaven and Virus Total at 2025-05-15 19:50:57.843192.
+data/training/regression/[AfC][UCI]Malware static and dynamic features VxHeaven and Virus Total
+Time spent tuning:
+0:01:07.615581
+Finish getting best_params of [data/training/regression][AfC][UCI]Malware static and dynamic features VxHeaven and Virus Total.
+Time spent tuning: 0:01:07.693632
+
+data/training/regression/[AfC][UCI]Motion Capture Hand Postures
+Start getting best_params of [data/training/regression][AfC][UCI]Motion Capture Hand Postures at 2025-05-15 19:52:05.536978.
+data/training/regression/[AfC][UCI]Motion Capture Hand Postures
+Time spent tuning:
+0:02:52.072005
+Finish getting best_params of [data/training/regression][AfC][UCI]Motion Capture Hand Postures.
+Time spent tuning: 0:02:52.639074
+
+data/training/regression/[AfC][UCI]QSAR biodegradation
+Start getting best_params of [data/training/regression][AfC][UCI]QSAR biodegradation at 2025-05-15 19:54:58.176182.
+data/training/regression/[AfC][UCI]QSAR biodegradation
+Time spent tuning:
+0:00:10.409537
+Finish getting best_params of [data/training/regression][AfC][UCI]QSAR biodegradation.
+Time spent tuning: 0:00:10.442644
+
+data/training/regression/[AfC][UCI]Shill Bidding Dataset
+Start getting best_params of [data/training/regression][AfC][UCI]Shill Bidding Dataset at 2025-05-15 19:55:08.618952.
+data/training/regression/[AfC][UCI]Shill Bidding Dataset
+Time spent tuning:
+0:00:03.077493
+Finish getting best_params of [data/training/regression][AfC][UCI]Shill Bidding Dataset.
+Time spent tuning: 0:00:03.127772
+
+data/training/regression/[AfC][UCI]Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)
+Start getting best_params of [data/training/regression][AfC][UCI]Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL) at 2025-05-15 19:55:11.746839.
+data/training/regression/[AfC][UCI]Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)
+Time spent tuning:
+0:04:22.163854
+Finish getting best_params of [data/training/regression][AfC][UCI]Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL).
+Time spent tuning: 0:04:22.478362
+
+data/training/regression/[AfC][UCI]Smartphone-Based Recognition of Human Activities and Postural Transitions
+Start getting best_params of [data/training/regression][AfC][UCI]Smartphone-Based Recognition of Human Activities and Postural Transitions at 2025-05-15 19:59:34.225427.
+data/training/regression/[AfC][UCI]Smartphone-Based Recognition of Human Activities and Postural Transitions
+Time spent tuning:
+0:02:40.368584
+Finish getting best_params of [data/training/regression][AfC][UCI]Smartphone-Based Recognition of Human Activities and Postural Transitions.
+Time spent tuning: 0:02:40.851466
+
+data/training/regression/[AfC][UCI]Steel Plates Faults
+Start getting best_params of [data/training/regression][AfC][UCI]Steel Plates Faults at 2025-05-15 20:02:15.077012.
+data/training/regression/[AfC][UCI]Steel Plates Faults
+Time spent tuning:
+0:00:08.110619
+Finish getting best_params of [data/training/regression][AfC][UCI]Steel Plates Faults.
+Time spent tuning: 0:00:08.142236
+
+data/training/regression/[AfC][UCI]Weight Lifting Exercises
+Start getting best_params of [data/training/regression][AfC][UCI]Weight Lifting Exercises at 2025-05-15 20:02:23.219320.
+data/training/regression/[AfC][UCI]Weight Lifting Exercises
+Time spent tuning:
+0:00:17.753237
+Finish getting best_params of [data/training/regression][AfC][UCI]Weight Lifting Exercises.
+Time spent tuning: 0:00:17.841679
+
+data/training/regression/[AfC][UCI]Wilt
+Start getting best_params of [data/training/regression][AfC][UCI]Wilt at 2025-05-15 20:02:41.061068.
+data/training/regression/[AfC][UCI]Wilt
+Time spent tuning:
+0:00:03.169053
+Finish getting best_params of [data/training/regression][AfC][UCI]Wilt.
+Time spent tuning: 0:00:03.193400
+
+data/training/regression/[AfC][UCI]banknote authentication
+Start getting best_params of [data/training/regression][AfC][UCI]banknote authentication at 2025-05-15 20:02:44.254536.
+data/training/regression/[AfC][UCI]banknote authentication
+Time spent tuning:
+0:00:05.065790
+Finish getting best_params of [data/training/regression][AfC][UCI]banknote authentication.
+Time spent tuning: 0:00:05.079855
+
+data/training/regression/[AfC][kaggle]Amsterdam - AirBnb
+Start getting best_params of [data/training/regression][AfC][kaggle]Amsterdam - AirBnb at 2025-05-15 20:02:49.334514.
+data/training/regression/[AfC][kaggle]Amsterdam - AirBnb
+Time spent tuning:
+0:00:07.372058
+Finish getting best_params of [data/training/regression][AfC][kaggle]Amsterdam - AirBnb.
+Time spent tuning: 0:00:07.408161
+
+data/training/regression/[AfC][kaggle]BERT-Embedded Spam messages
+Start getting best_params of [data/training/regression][AfC][kaggle]BERT-Embedded Spam messages at 2025-05-15 20:02:56.742772.
+data/training/regression/[AfC][kaggle]BERT-Embedded Spam messages
+Time spent tuning:
+0:10:01.779009
+Finish getting best_params of [data/training/regression][AfC][kaggle]BERT-Embedded Spam messages.
+Time spent tuning: 0:10:02.350957
+
+data/training/regression/[AfC][kaggle]Bangla Music Dataset
+Start getting best_params of [data/training/regression][AfC][kaggle]Bangla Music Dataset at 2025-05-15 20:12:59.093932.
+data/training/regression/[AfC][kaggle]Bangla Music Dataset
+Time spent tuning:
+0:00:17.273606
+Finish getting best_params of [data/training/regression][AfC][kaggle]Bangla Music Dataset.
+Time spent tuning: 0:00:17.337635
+
+data/training/regression/[AfC][kaggle]Churn Modelling
+Start getting best_params of [data/training/regression][AfC][kaggle]Churn Modelling at 2025-05-15 20:13:16.431673.
+data/training/regression/[AfC][kaggle]Churn Modelling
+Time spent tuning:
+0:00:08.571018
+Finish getting best_params of [data/training/regression][AfC][kaggle]Churn Modelling.
+Time spent tuning: 0:00:08.635501
+
+data/training/regression/[AfC][kaggle]Client churn rate in Telecom sector
+Start getting best_params of [data/training/regression][AfC][kaggle]Client churn rate in Telecom sector at 2025-05-15 20:13:25.067249.
+data/training/regression/[AfC][kaggle]Client churn rate in Telecom sector
+Time spent tuning:
+0:00:14.314474
+Finish getting best_params of [data/training/regression][AfC][kaggle]Client churn rate in Telecom sector.
+Time spent tuning: 0:00:14.350759
+
+data/training/regression/[AfC][kaggle]Customer Churn
+Start getting best_params of [data/training/regression][AfC][kaggle]Customer Churn at 2025-05-15 20:13:39.418148.
+data/training/regression/[AfC][kaggle]Customer Churn
+Time spent tuning:
+0:00:12.025322
+Finish getting best_params of [data/training/regression][AfC][kaggle]Customer Churn.
+Time spent tuning: 0:00:12.073880
+
+data/training/regression/[AfC][kaggle]EMG-gesture-classification
+Start getting best_params of [data/training/regression][AfC][kaggle]EMG-gesture-classification at 2025-05-15 20:13:51.492096.
+data/training/regression/[AfC][kaggle]EMG-gesture-classification
+Time spent tuning:
+0:02:40.217886
+Finish getting best_params of [data/training/regression][AfC][kaggle]EMG-gesture-classification.
+Time spent tuning: 0:02:41.544671
+
+data/training/regression/[AfC][kaggle]Electronic Music Features - 201611 BeatportTop100
+Start getting best_params of [data/training/regression][AfC][kaggle]Electronic Music Features - 201611 BeatportTop100 at 2025-05-15 20:16:33.036928.
+data/training/regression/[AfC][kaggle]Electronic Music Features - 201611 BeatportTop100
+Time spent tuning:
+0:00:42.230238
+Finish getting best_params of [data/training/regression][AfC][kaggle]Electronic Music Features - 201611 BeatportTop100.
+Time spent tuning: 0:00:42.287050
+
+data/training/regression/[AfC][kaggle]Electronic Music Features - 201802 BeatportTop100
+Start getting best_params of [data/training/regression][AfC][kaggle]Electronic Music Features - 201802 BeatportTop100 at 2025-05-15 20:17:15.324072.
+data/training/regression/[AfC][kaggle]Electronic Music Features - 201802 BeatportTop100
+Time spent tuning:
+0:01:01.441459
+Finish getting best_params of [data/training/regression][AfC][kaggle]Electronic Music Features - 201802 BeatportTop100.
+Time spent tuning: 0:01:01.546537
+
+data/training/regression/[AfC][kaggle]Fetal cardiotocography data
+Start getting best_params of [data/training/regression][AfC][kaggle]Fetal cardiotocography data at 2025-05-15 20:18:16.870682.
+data/training/regression/[AfC][kaggle]Fetal cardiotocography data
+Time spent tuning:
+0:00:14.216661
+Finish getting best_params of [data/training/regression][AfC][kaggle]Fetal cardiotocography data.
+Time spent tuning: 0:00:14.260960
+
+data/training/regression/[AfC][kaggle]HR-attrition-EDA
+Start getting best_params of [data/training/regression][AfC][kaggle]HR-attrition-EDA at 2025-05-15 20:18:31.131710.
+data/training/regression/[AfC][kaggle]HR-attrition-EDA
+Time spent tuning:
+0:00:01.044809
+Finish getting best_params of [data/training/regression][AfC][kaggle]HR-attrition-EDA.
+Time spent tuning: 0:00:01.077262
+
+data/training/regression/[AfC][kaggle]Mice Protein Expression
+Start getting best_params of [data/training/regression][AfC][kaggle]Mice Protein Expression at 2025-05-15 20:18:32.209106.
+data/training/regression/[AfC][kaggle]Mice Protein Expression
+Time spent tuning:
+0:00:57.537165
+Finish getting best_params of [data/training/regression][AfC][kaggle]Mice Protein Expression.
+Time spent tuning: 0:00:57.585615
+
+data/training/regression/[AfC][kaggle]Microsoft-Malware-Classification-Challenge
+Start getting best_params of [data/training/regression][AfC][kaggle]Microsoft-Malware-Classification-Challenge at 2025-05-15 20:19:29.794826.
+data/training/regression/[AfC][kaggle]Microsoft-Malware-Classification-Challenge
+Time spent tuning:
+0:12:21.855144
+Finish getting best_params of [data/training/regression][AfC][kaggle]Microsoft-Malware-Classification-Challenge.
+Time spent tuning: 0:12:23.942017
+
+data/training/regression/[AfC][kaggle]Predicting Profitable Customer Segments
+Start getting best_params of [data/training/regression][AfC][kaggle]Predicting Profitable Customer Segments at 2025-05-15 20:31:53.736969.
+data/training/regression/[AfC][kaggle]Predicting Profitable Customer Segments
+Time spent tuning:
+0:00:54.002625
+Finish getting best_params of [data/training/regression][AfC][kaggle]Predicting Profitable Customer Segments.
+Time spent tuning: 0:00:54.075656
+
+data/training/regression/[AfC][kaggle]Predicting Pulsar Star
+Start getting best_params of [data/training/regression][AfC][kaggle]Predicting Pulsar Star at 2025-05-15 20:32:47.812737.
+data/training/regression/[AfC][kaggle]Predicting Pulsar Star
+Time spent tuning:
+0:00:05.392585
+Finish getting best_params of [data/training/regression][AfC][kaggle]Predicting Pulsar Star.
+Time spent tuning: 0:00:05.423104
+
+data/training/regression/[AfC][kaggle]Sloan Digital Sky Survey DR14
+Start getting best_params of [data/training/regression][AfC][kaggle]Sloan Digital Sky Survey DR14 at 2025-05-15 20:32:53.235934.
+data/training/regression/[AfC][kaggle]Sloan Digital Sky Survey DR14
+Time spent tuning:
+0:00:23.460836
+Finish getting best_params of [data/training/regression][AfC][kaggle]Sloan Digital Sky Survey DR14.
+Time spent tuning: 0:00:23.506782
+
+data/training/regression/[AfC][kaggle]Sloan Digital Sky Survey DR16
+Start getting best_params of [data/training/regression][AfC][kaggle]Sloan Digital Sky Survey DR16 at 2025-05-15 20:33:16.742786.
+data/training/regression/[AfC][kaggle]Sloan Digital Sky Survey DR16
+Time spent tuning:
+0:01:48.620704
+Finish getting best_params of [data/training/regression][AfC][kaggle]Sloan Digital Sky Survey DR16.
+Time spent tuning: 0:01:48.897730
+
+data/training/regression/[AfC][kaggle]Telecom Churn Dataset
+Start getting best_params of [data/training/regression][AfC][kaggle]Telecom Churn Dataset at 2025-05-15 20:35:05.640691.
+data/training/regression/[AfC][kaggle]Telecom Churn Dataset
+Time spent tuning:
+0:00:04.323140
+Finish getting best_params of [data/training/regression][AfC][kaggle]Telecom Churn Dataset.
+Time spent tuning: 0:00:04.433516
+
+data/training/regression/[AfC][kaggle]Well log facies dataset
+Start getting best_params of [data/training/regression][AfC][kaggle]Well log facies dataset at 2025-05-15 20:35:10.074275.
+data/training/regression/[AfC][kaggle]Well log facies dataset
+Time spent tuning:
+0:00:16.229145
+Finish getting best_params of [data/training/regression][AfC][kaggle]Well log facies dataset.
+Time spent tuning: 0:00:16.250873
+
+data/training/regression/[AfC][openml]BNG(breast-w)
+Start getting best_params of [data/training/regression][AfC][openml]BNG(breast-w) at 2025-05-15 20:35:26.325228.
+data/training/regression/[AfC][openml]BNG(breast-w)
+Time spent tuning:
+0:00:09.800765
+Finish getting best_params of [data/training/regression][AfC][openml]BNG(breast-w).
+Time spent tuning: 0:00:09.856642
+
+data/training/regression/[AfC][openml]BNG(cmc)
+Start getting best_params of [data/training/regression][AfC][openml]BNG(cmc) at 2025-05-15 20:35:36.181960.
+data/training/regression/[AfC][openml]BNG(cmc)
+Time spent tuning:
+0:00:07.920245
+Finish getting best_params of [data/training/regression][AfC][openml]BNG(cmc).
+Time spent tuning: 0:00:07.984112
+
+data/training/regression/[AfC][openml]Click_prediction_small
+Start getting best_params of [data/training/regression][AfC][openml]Click_prediction_small at 2025-05-15 20:35:44.166143.
+data/training/regression/[AfC][openml]Click_prediction_small
+Time spent tuning:
+0:00:35.622780
+Finish getting best_params of [data/training/regression][AfC][openml]Click_prediction_small.
+Time spent tuning: 0:00:35.766300
+
+data/training/regression/[AfC][openml]CreditCardSubset
+Start getting best_params of [data/training/regression][AfC][openml]CreditCardSubset at 2025-05-15 20:36:19.932517.
+data/training/regression/[AfC][openml]CreditCardSubset
+Time spent tuning:
+0:00:22.253900
+Finish getting best_params of [data/training/regression][AfC][openml]CreditCardSubset.
+Time spent tuning: 0:00:22.352799
+
+data/training/regression/[AfC][openml]JapaneseVowels
+Start getting best_params of [data/training/regression][AfC][openml]JapaneseVowels at 2025-05-15 20:36:42.285389.
+data/training/regression/[AfC][openml]JapaneseVowels
+Time spent tuning:
+0:00:48.595542
+Finish getting best_params of [data/training/regression][AfC][openml]JapaneseVowels.
+Time spent tuning: 0:00:48.635923
+
+data/training/regression/[AfC][openml]MagicTelescope
+Start getting best_params of [data/training/regression][AfC][openml]MagicTelescope at 2025-05-15 20:37:30.921388.
+data/training/regression/[AfC][openml]MagicTelescope
+Time spent tuning:
+0:00:32.555140
+Finish getting best_params of [data/training/regression][AfC][openml]MagicTelescope.
+Time spent tuning: 0:00:32.668474
+
+data/training/regression/[AfC][openml]PieChart3
+Start getting best_params of [data/training/regression][AfC][openml]PieChart3 at 2025-05-15 20:38:03.589934.
+data/training/regression/[AfC][openml]PieChart3
+Time spent tuning:
+0:00:01.977443
+Finish getting best_params of [data/training/regression][AfC][openml]PieChart3.
+Time spent tuning: 0:00:01.999472
+
+data/training/regression/[AfC][openml]PizzaCutter3
+Start getting best_params of [data/training/regression][AfC][openml]PizzaCutter3 at 2025-05-15 20:38:05.589479.
+data/training/regression/[AfC][openml]PizzaCutter3
+Time spent tuning:
+0:00:01.754283
+Finish getting best_params of [data/training/regression][AfC][openml]PizzaCutter3.
+Time spent tuning: 0:00:01.784374
+
+data/training/regression/[AfC][openml]Run_or_walk_information
+Start getting best_params of [data/training/regression][AfC][openml]Run_or_walk_information at 2025-05-15 20:38:07.373923.
+data/training/regression/[AfC][openml]Run_or_walk_information
+Time spent tuning:
+0:00:07.530698
+Finish getting best_params of [data/training/regression][AfC][openml]Run_or_walk_information.
+Time spent tuning: 0:00:07.619544
+
+data/training/regression/[AfC][openml]USPS
+Start getting best_params of [data/training/regression][AfC][openml]USPS at 2025-05-15 20:38:14.993543.
+data/training/regression/[AfC][openml]USPS
+Time spent tuning:
+0:00:11.632975
+Finish getting best_params of [data/training/regression][AfC][openml]USPS.
+Time spent tuning: 0:00:11.708435
+
+data/training/regression/[AfC][openml]abalone
+Start getting best_params of [data/training/regression][AfC][openml]abalone at 2025-05-15 20:38:26.702078.
+data/training/regression/[AfC][openml]abalone
+Time spent tuning:
+0:00:03.598906
+Finish getting best_params of [data/training/regression][AfC][openml]abalone.
+Time spent tuning: 0:00:03.630002
+
+data/training/regression/[AfC][openml]ada_prior
+Start getting best_params of [data/training/regression][AfC][openml]ada_prior at 2025-05-15 20:38:30.332213.
+data/training/regression/[AfC][openml]ada_prior
+Time spent tuning:
+0:00:15.358801
+Finish getting best_params of [data/training/regression][AfC][openml]ada_prior.
+Time spent tuning: 0:00:15.417077
+
+data/training/regression/[AfC][openml]analcatdata_halloffame
+Start getting best_params of [data/training/regression][AfC][openml]analcatdata_halloffame at 2025-05-15 20:38:45.749511.
+data/training/regression/[AfC][openml]analcatdata_halloffame
+Time spent tuning:
+0:00:03.918632
+Finish getting best_params of [data/training/regression][AfC][openml]analcatdata_halloffame.
+Time spent tuning: 0:00:03.952314
+
+data/training/regression/[AfC][openml]autoUniv-au4-2500
+Start getting best_params of [data/training/regression][AfC][openml]autoUniv-au4-2500 at 2025-05-15 20:38:49.701905.
+data/training/regression/[AfC][openml]autoUniv-au4-2500
+Time spent tuning:
+0:00:03.555676
+Finish getting best_params of [data/training/regression][AfC][openml]autoUniv-au4-2500.
+Time spent tuning: 0:00:03.652780
+
+data/training/regression/[AfC][openml]bank32nh
+Start getting best_params of [data/training/regression][AfC][openml]bank32nh at 2025-05-15 20:38:53.354766.
+data/training/regression/[AfC][openml]bank32nh
+Time spent tuning:
+0:00:03.715489
+Finish getting best_params of [data/training/regression][AfC][openml]bank32nh.
+Time spent tuning: 0:00:03.935334
+
+data/training/regression/[AfC][openml]bank8FM
+Start getting best_params of [data/training/regression][AfC][openml]bank8FM at 2025-05-15 20:38:57.290235.
+data/training/regression/[AfC][openml]bank8FM
+Time spent tuning:
+0:00:01.722959
+Finish getting best_params of [data/training/regression][AfC][openml]bank8FM.
+Time spent tuning: 0:00:01.751097
+
+data/training/regression/[AfC][openml]cardiotocography
+Start getting best_params of [data/training/regression][AfC][openml]cardiotocography at 2025-05-15 20:38:59.041414.
+data/training/regression/[AfC][openml]cardiotocography
+Time spent tuning:
+0:00:18.440035
+Finish getting best_params of [data/training/regression][AfC][openml]cardiotocography.
+Time spent tuning: 0:00:18.464635
+
+data/training/regression/[AfC][openml]churn
+Start getting best_params of [data/training/regression][AfC][openml]churn at 2025-05-15 20:39:17.506389.
+data/training/regression/[AfC][openml]churn
+Time spent tuning:
+0:00:03.584703
+Finish getting best_params of [data/training/regression][AfC][openml]churn.
+Time spent tuning: 0:00:03.607125
+
+data/training/regression/[AfC][openml]clean2
+Start getting best_params of [data/training/regression][AfC][openml]clean2 at 2025-05-15 20:39:21.113584.
+data/training/regression/[AfC][openml]clean2
+Time spent tuning:
+0:02:11.986603
+Finish getting best_params of [data/training/regression][AfC][openml]clean2.
+Time spent tuning: 0:02:12.145325
+
+data/training/regression/[AfC][openml]colleges_aaup
+Start getting best_params of [data/training/regression][AfC][openml]colleges_aaup at 2025-05-15 20:41:33.259093.
+data/training/regression/[AfC][openml]colleges_aaup
+Time spent tuning:
+0:00:14.817699
+Finish getting best_params of [data/training/regression][AfC][openml]colleges_aaup.
+Time spent tuning: 0:00:14.848863
+
+data/training/regression/[AfC][openml]credit-g
+Start getting best_params of [data/training/regression][AfC][openml]credit-g at 2025-05-15 20:41:48.108064.
+data/training/regression/[AfC][openml]credit-g
+Time spent tuning:
+0:00:01.490422
+Finish getting best_params of [data/training/regression][AfC][openml]credit-g.
+Time spent tuning: 0:00:01.519594
+
+data/training/regression/[AfC][openml]default-of-credit-card-clients
+Start getting best_params of [data/training/regression][AfC][openml]default-of-credit-card-clients at 2025-05-15 20:41:49.627732.
+data/training/regression/[AfC][openml]default-of-credit-card-clients
+Time spent tuning:
+0:00:14.119085
+Finish getting best_params of [data/training/regression][AfC][openml]default-of-credit-card-clients.
+Time spent tuning: 0:00:14.234402
+
+data/training/regression/[AfC][openml]eye_movements
+Start getting best_params of [data/training/regression][AfC][openml]eye_movements at 2025-05-15 20:42:03.862206.
+data/training/regression/[AfC][openml]eye_movements
+Time spent tuning:
+0:00:05.117075
+Finish getting best_params of [data/training/regression][AfC][openml]eye_movements.
+Time spent tuning: 0:00:05.179092
+
+data/training/regression/[AfC][openml]fri_c0_1000_10
+Start getting best_params of [data/training/regression][AfC][openml]fri_c0_1000_10 at 2025-05-15 20:42:09.041374.
+data/training/regression/[AfC][openml]fri_c0_1000_10
+Time spent tuning:
+0:00:00.947470
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c0_1000_10.
+Time spent tuning: 0:00:00.978632
+
+data/training/regression/[AfC][openml]fri_c0_1000_25
+Start getting best_params of [data/training/regression][AfC][openml]fri_c0_1000_25 at 2025-05-15 20:42:10.020082.
+data/training/regression/[AfC][openml]fri_c0_1000_25
+Time spent tuning:
+0:00:01.406958
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c0_1000_25.
+Time spent tuning: 0:00:01.439040
+
+data/training/regression/[AfC][openml]fri_c0_1000_5
+Start getting best_params of [data/training/regression][AfC][openml]fri_c0_1000_5 at 2025-05-15 20:42:11.459190.
+data/training/regression/[AfC][openml]fri_c0_1000_5
+Time spent tuning:
+0:00:00.769226
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c0_1000_5.
+Time spent tuning: 0:00:00.791824
+
+data/training/regression/[AfC][openml]fri_c0_1000_50
+Start getting best_params of [data/training/regression][AfC][openml]fri_c0_1000_50 at 2025-05-15 20:42:12.251077.
+data/training/regression/[AfC][openml]fri_c0_1000_50
+Time spent tuning:
+0:00:12.346383
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c0_1000_50.
+Time spent tuning: 0:00:12.417872
+
+data/training/regression/[AfC][openml]fri_c1_1000_10
+Start getting best_params of [data/training/regression][AfC][openml]fri_c1_1000_10 at 2025-05-15 20:42:24.669020.
+data/training/regression/[AfC][openml]fri_c1_1000_10
+Time spent tuning:
+0:00:02.449586
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c1_1000_10.
+Time spent tuning: 0:00:02.472669
+
+data/training/regression/[AfC][openml]fri_c1_1000_25
+Start getting best_params of [data/training/regression][AfC][openml]fri_c1_1000_25 at 2025-05-15 20:42:27.141771.
+data/training/regression/[AfC][openml]fri_c1_1000_25
+Time spent tuning:
+0:00:02.692067
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c1_1000_25.
+Time spent tuning: 0:00:02.768120
+
+data/training/regression/[AfC][openml]fri_c1_1000_5
+Start getting best_params of [data/training/regression][AfC][openml]fri_c1_1000_5 at 2025-05-15 20:42:29.909970.
+data/training/regression/[AfC][openml]fri_c1_1000_5
+Time spent tuning:
+0:00:01.087723
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c1_1000_5.
+Time spent tuning: 0:00:01.096856
+
+data/training/regression/[AfC][openml]fri_c1_1000_50
+Start getting best_params of [data/training/regression][AfC][openml]fri_c1_1000_50 at 2025-05-15 20:42:31.006894.
+data/training/regression/[AfC][openml]fri_c1_1000_50
+Time spent tuning:
+0:00:03.905526
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c1_1000_50.
+Time spent tuning: 0:00:03.939785
+
+data/training/regression/[AfC][openml]fri_c2_1000_10
+Start getting best_params of [data/training/regression][AfC][openml]fri_c2_1000_10 at 2025-05-15 20:42:34.946783.
+data/training/regression/[AfC][openml]fri_c2_1000_10
+Time spent tuning:
+0:00:01.183011
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c2_1000_10.
+Time spent tuning: 0:00:01.202784
+
+data/training/regression/[AfC][openml]fri_c2_1000_25
+Start getting best_params of [data/training/regression][AfC][openml]fri_c2_1000_25 at 2025-05-15 20:42:36.149668.
+data/training/regression/[AfC][openml]fri_c2_1000_25
+Time spent tuning:
+0:00:01.840254
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c2_1000_25.
+Time spent tuning: 0:00:01.864287
+
+data/training/regression/[AfC][openml]fri_c2_1000_5
+Start getting best_params of [data/training/regression][AfC][openml]fri_c2_1000_5 at 2025-05-15 20:42:38.014024.
+data/training/regression/[AfC][openml]fri_c2_1000_5
+Time spent tuning:
+0:00:00.956221
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c2_1000_5.
+Time spent tuning: 0:00:01.059811
+
+data/training/regression/[AfC][openml]fri_c2_1000_50
+Start getting best_params of [data/training/regression][AfC][openml]fri_c2_1000_50 at 2025-05-15 20:42:39.073946.
+data/training/regression/[AfC][openml]fri_c2_1000_50
+Time spent tuning:
+0:00:02.771082
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c2_1000_50.
+Time spent tuning: 0:00:02.801972
+
+data/training/regression/[AfC][openml]fri_c3_1000_10
+Start getting best_params of [data/training/regression][AfC][openml]fri_c3_1000_10 at 2025-05-15 20:42:41.875990.
+data/training/regression/[AfC][openml]fri_c3_1000_10
+Time spent tuning:
+0:00:01.787119
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c3_1000_10.
+Time spent tuning: 0:00:01.808503
+
+data/training/regression/[AfC][openml]fri_c3_1000_25
+Start getting best_params of [data/training/regression][AfC][openml]fri_c3_1000_25 at 2025-05-15 20:42:43.684596.
+data/training/regression/[AfC][openml]fri_c3_1000_25
+Time spent tuning:
+0:00:03.068252
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c3_1000_25.
+Time spent tuning: 0:00:03.093730
+
+data/training/regression/[AfC][openml]fri_c3_1000_5
+Start getting best_params of [data/training/regression][AfC][openml]fri_c3_1000_5 at 2025-05-15 20:42:46.778393.
+data/training/regression/[AfC][openml]fri_c3_1000_5
+Time spent tuning:
+0:00:01.260047
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c3_1000_5.
+Time spent tuning: 0:00:01.279894
+
+data/training/regression/[AfC][openml]fri_c3_1000_50
+Start getting best_params of [data/training/regression][AfC][openml]fri_c3_1000_50 at 2025-05-15 20:42:48.058357.
+data/training/regression/[AfC][openml]fri_c3_1000_50
+Time spent tuning:
+0:00:03.656332
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c3_1000_50.
+Time spent tuning: 0:00:03.695134
+
+data/training/regression/[AfC][openml]fri_c4_1000_10
+Start getting best_params of [data/training/regression][AfC][openml]fri_c4_1000_10 at 2025-05-15 20:42:51.753572.
+data/training/regression/[AfC][openml]fri_c4_1000_10
+Time spent tuning:
+0:00:01.659952
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c4_1000_10.
+Time spent tuning: 0:00:01.675830
+
+data/training/regression/[AfC][openml]fri_c4_1000_25
+Start getting best_params of [data/training/regression][AfC][openml]fri_c4_1000_25 at 2025-05-15 20:42:53.429475.
+data/training/regression/[AfC][openml]fri_c4_1000_25
+Time spent tuning:
+0:00:02.820075
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c4_1000_25.
+Time spent tuning: 0:00:02.842855
+
+data/training/regression/[AfC][openml]fri_c4_1000_50
+Start getting best_params of [data/training/regression][AfC][openml]fri_c4_1000_50 at 2025-05-15 20:42:56.272401.
+data/training/regression/[AfC][openml]fri_c4_1000_50
+Time spent tuning:
+0:00:13.860103
+Finish getting best_params of [data/training/regression][AfC][openml]fri_c4_1000_50.
+Time spent tuning: 0:00:13.888055
+
+data/training/regression/[AfC][openml]higgs
+Start getting best_params of [data/training/regression][AfC][openml]higgs at 2025-05-15 20:43:10.160591.
+data/training/regression/[AfC][openml]higgs
+Time spent tuning:
+0:02:53.442032
+Finish getting best_params of [data/training/regression][AfC][openml]higgs.
+Time spent tuning: 0:02:54.223867
+
+data/training/regression/[AfC][openml]house_16H
+Start getting best_params of [data/training/regression][AfC][openml]house_16H at 2025-05-15 20:46:04.384861.
+data/training/regression/[AfC][openml]house_16H
+Time spent tuning:
+0:00:08.364466
+Finish getting best_params of [data/training/regression][AfC][openml]house_16H.
+Time spent tuning: 0:00:08.435984
+
+data/training/regression/[AfC][openml]house_8L
+Start getting best_params of [data/training/regression][AfC][openml]house_8L at 2025-05-15 20:46:12.820942.
+data/training/regression/[AfC][openml]house_8L
+Time spent tuning:
+0:00:06.525654
+Finish getting best_params of [data/training/regression][AfC][openml]house_8L.
+Time spent tuning: 0:00:06.572293
+
+data/training/regression/[AfC][openml]houses
+Start getting best_params of [data/training/regression][AfC][openml]houses at 2025-05-15 20:46:19.393304.
+data/training/regression/[AfC][openml]houses
+Time spent tuning:
+0:00:14.720259
+Finish getting best_params of [data/training/regression][AfC][openml]houses.
+Time spent tuning: 0:00:14.774775
+
+data/training/regression/[AfC][openml]jm1
+Start getting best_params of [data/training/regression][AfC][openml]jm1 at 2025-05-15 20:46:34.168147.
+data/training/regression/[AfC][openml]jm1
+Time spent tuning:
+0:00:07.131333
+Finish getting best_params of [data/training/regression][AfC][openml]jm1.
+Time spent tuning: 0:00:07.180953
+
+data/training/regression/[AfC][openml]kin8nm
+Start getting best_params of [data/training/regression][AfC][openml]kin8nm at 2025-05-15 20:46:41.349182.
+data/training/regression/[AfC][openml]kin8nm
+Time spent tuning:
+0:00:01.450269
+Finish getting best_params of [data/training/regression][AfC][openml]kin8nm.
+Time spent tuning: 0:00:01.487584
+
+data/training/regression/[AfC][openml]mfeat-fourier
+Start getting best_params of [data/training/regression][AfC][openml]mfeat-fourier at 2025-05-15 20:46:42.836872.
+data/training/regression/[AfC][openml]mfeat-fourier
+Time spent tuning:
+0:00:26.342113
+Finish getting best_params of [data/training/regression][AfC][openml]mfeat-fourier.
+Time spent tuning: 0:00:26.391743
+
+data/training/regression/[AfC][openml]mfeat-karhunen
+Start getting best_params of [data/training/regression][AfC][openml]mfeat-karhunen at 2025-05-15 20:47:09.228688.
+data/training/regression/[AfC][openml]mfeat-karhunen
+Time spent tuning:
+0:00:26.516387
+Finish getting best_params of [data/training/regression][AfC][openml]mfeat-karhunen.
+Time spent tuning: 0:00:26.642714
+
+data/training/regression/[AfC][openml]mfeat-morphological
+Start getting best_params of [data/training/regression][AfC][openml]mfeat-morphological at 2025-05-15 20:47:35.871541.
+data/training/regression/[AfC][openml]mfeat-morphological
+Time spent tuning:
+0:00:01.651152
+Finish getting best_params of [data/training/regression][AfC][openml]mfeat-morphological.
+Time spent tuning: 0:00:01.673848
+
+data/training/regression/[AfC][openml]mfeat-zernike
+Start getting best_params of [data/training/regression][AfC][openml]mfeat-zernike at 2025-05-15 20:47:37.545459.
+data/training/regression/[AfC][openml]mfeat-zernike
+Time spent tuning:
+0:00:26.475043
+Finish getting best_params of [data/training/regression][AfC][openml]mfeat-zernike.
+Time spent tuning: 0:00:26.512843
+
+data/training/regression/[AfC][openml]mozilla4
+Start getting best_params of [data/training/regression][AfC][openml]mozilla4 at 2025-05-15 20:48:04.058371.
+data/training/regression/[AfC][openml]mozilla4
+Time spent tuning:
+0:00:13.740622
+Finish getting best_params of [data/training/regression][AfC][openml]mozilla4.
+Time spent tuning: 0:00:13.773690
+
+data/training/regression/[AfC][openml]mv
+Start getting best_params of [data/training/regression][AfC][openml]mv at 2025-05-15 20:48:17.832159.
+data/training/regression/[AfC][openml]mv
+Time spent tuning:
+0:00:05.589349
+Finish getting best_params of [data/training/regression][AfC][openml]mv.
+Time spent tuning: 0:00:05.671966
+
+data/training/regression/[AfC][openml]ozone-level-8hr
+Start getting best_params of [data/training/regression][AfC][openml]ozone-level-8hr at 2025-05-15 20:48:23.504196.
+data/training/regression/[AfC][openml]ozone-level-8hr
+Time spent tuning:
+0:00:03.311927
+Finish getting best_params of [data/training/regression][AfC][openml]ozone-level-8hr.
+Time spent tuning: 0:00:03.353494
+
+data/training/regression/[AfC][openml]pc1
+Start getting best_params of [data/training/regression][AfC][openml]pc1 at 2025-05-15 20:48:26.857759.
+data/training/regression/[AfC][openml]pc1
+Time spent tuning:
+0:00:01.208540
+Finish getting best_params of [data/training/regression][AfC][openml]pc1.
+Time spent tuning: 0:00:01.230543
+
+data/training/regression/[AfC][openml]pc3
+Start getting best_params of [data/training/regression][AfC][openml]pc3 at 2025-05-15 20:48:28.088367.
+data/training/regression/[AfC][openml]pc3
+Time spent tuning:
+0:00:02.196762
+Finish getting best_params of [data/training/regression][AfC][openml]pc3.
+Time spent tuning: 0:00:02.220106
+
+data/training/regression/[AfC][openml]pc4
+Start getting best_params of [data/training/regression][AfC][openml]pc4 at 2025-05-15 20:48:30.308540.
+data/training/regression/[AfC][openml]pc4
+Time spent tuning:
+0:00:01.862422
+Finish getting best_params of [data/training/regression][AfC][openml]pc4.
+Time spent tuning: 0:00:01.881624
+
+data/training/regression/[AfC][openml]phoneme
+Start getting best_params of [data/training/regression][AfC][openml]phoneme at 2025-05-15 20:48:32.190233.
+data/training/regression/[AfC][openml]phoneme
+Time spent tuning:
+0:00:05.799663
+Finish getting best_params of [data/training/regression][AfC][openml]phoneme.
+Time spent tuning: 0:00:05.883803
+
+data/training/regression/[AfC][openml]pollen
+Start getting best_params of [data/training/regression][AfC][openml]pollen at 2025-05-15 20:48:38.074101.
+data/training/regression/[AfC][openml]pollen
+Time spent tuning:
+0:00:01.560845
+Finish getting best_params of [data/training/regression][AfC][openml]pollen.
+Time spent tuning: 0:00:01.580340
+
+data/training/regression/[AfC][openml]puma32H
+Start getting best_params of [data/training/regression][AfC][openml]puma32H at 2025-05-15 20:48:39.654503.
+data/training/regression/[AfC][openml]puma32H
+Time spent tuning:
+0:00:02.800533
+Finish getting best_params of [data/training/regression][AfC][openml]puma32H.
+Time spent tuning: 0:00:02.860338
+
+data/training/regression/[AfC][openml]puma8NH
+Start getting best_params of [data/training/regression][AfC][openml]puma8NH at 2025-05-15 20:48:42.514903.
+data/training/regression/[AfC][openml]puma8NH
+Time spent tuning:
+0:00:01.232534
+Finish getting best_params of [data/training/regression][AfC][openml]puma8NH.
+Time spent tuning: 0:00:01.265502
+
+data/training/regression/[AfC][openml]quake
+Start getting best_params of [data/training/regression][AfC][openml]quake at 2025-05-15 20:48:43.780467.
+data/training/regression/[AfC][openml]quake
+Time spent tuning:
+0:00:01.220660
+Finish getting best_params of [data/training/regression][AfC][openml]quake.
+Time spent tuning: 0:00:01.234968
+
+data/training/regression/[AfC][openml]ringnorm
+Start getting best_params of [data/training/regression][AfC][openml]ringnorm at 2025-05-15 20:48:45.015496.
+data/training/regression/[AfC][openml]ringnorm
+Time spent tuning:
+0:00:01.818233
+Finish getting best_params of [data/training/regression][AfC][openml]ringnorm.
+Time spent tuning: 0:00:01.847842
+
+data/training/regression/[AfC][openml]segment
+Start getting best_params of [data/training/regression][AfC][openml]segment at 2025-05-15 20:48:46.863403.
+data/training/regression/[AfC][openml]segment
+Time spent tuning:
+0:00:01.471247
+Finish getting best_params of [data/training/regression][AfC][openml]segment.
+Time spent tuning: 0:00:01.498683
+
+data/training/regression/[AfC][openml]space_ga
+Start getting best_params of [data/training/regression][AfC][openml]space_ga at 2025-05-15 20:48:48.362148.
+data/training/regression/[AfC][openml]space_ga
+Time spent tuning:
+0:00:02.885547
+Finish getting best_params of [data/training/regression][AfC][openml]space_ga.
+Time spent tuning: 0:00:02.903377
+
+data/training/regression/[AfC][openml]sylvine
+Start getting best_params of [data/training/regression][AfC][openml]sylvine at 2025-05-15 20:48:51.265591.
+data/training/regression/[AfC][openml]sylvine
+Time spent tuning:
+0:00:03.240106
+Finish getting best_params of [data/training/regression][AfC][openml]sylvine.
+Time spent tuning: 0:00:03.269738
+
+data/training/regression/[AfC][openml]twonorm
+Start getting best_params of [data/training/regression][AfC][openml]twonorm at 2025-05-15 20:48:54.535396.
+data/training/regression/[AfC][openml]twonorm
+Time spent tuning:
+0:00:03.078761
+Finish getting best_params of [data/training/regression][AfC][openml]twonorm.
+Time spent tuning: 0:00:03.145147
+
+data/training/regression/[AfC][openml]visualizing_soil
+Start getting best_params of [data/training/regression][AfC][openml]visualizing_soil at 2025-05-15 20:48:57.680608.
+data/training/regression/[AfC][openml]visualizing_soil
+Time spent tuning:
+0:00:05.083166
+Finish getting best_params of [data/training/regression][AfC][openml]visualizing_soil.
+Time spent tuning: 0:00:05.211945
+
+data/training/regression/[AfC][openml]wilt
+Start getting best_params of [data/training/regression][AfC][openml]wilt at 2025-05-15 20:49:02.892623.
+data/training/regression/[AfC][openml]wilt
+Time spent tuning:
+0:00:02.741552
+Finish getting best_params of [data/training/regression][AfC][openml]wilt.
+Time spent tuning: 0:00:02.768031
+
